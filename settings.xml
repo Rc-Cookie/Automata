@@ -1,0 +1,11 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
+    <server>
+      <id>github</id>
+      <username>Rc-Cookie</username>
+      <password>&#103;&#104;&#112;&#95;&#51;&#84;&#100;&#54;&#53;&#118;&#50;&#65;&#99;&#49;&#51;&#49;&#77;&#110;&#54;&#102;&#71;&#105;&#67;&#107;&#89;&#107;&#56;&#65;&#76;&#116;&#48;&#82;&#54;&#81;&#50;&#110;&#121;&#118;&#111;&#57;</password>
+    </server>
+  </servers>
+</settings>
